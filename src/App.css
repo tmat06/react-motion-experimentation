@@ -1,0 +1,45 @@
+.App {
+  height: 200vh;
+  width: 100%;
+  background-color: lightcyan;
+}
+
+.fixit {
+  height: 50px;
+  width: 50px;
+  background-color: red;
+  position: fixed;
+  top: 0;
+}
+
+/* KeyFrame Biz cred Mira */
+
+/* @keyframes forFun {
+  10% {
+    background-color: aqua;
+    height: 200px;
+    width: 200px;
+    margin-left: 40%;
+  }
+  100% {
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    margin-right: -40%;
+  }
+}
+
+h1 {
+  width: 100px;
+  height: 100px;
+  position: relative;
+  background-color: aqua;
+  animation-name: forFun;
+  animation-duration: 1s;
+  animation-timing-function: ease-in-out;
+  animation-delay: 2s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-fill-mode: forwards;
+  animation: forFun 5s linear 2s infinite alternate;
+} */
